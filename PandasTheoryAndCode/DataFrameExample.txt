@@ -1,0 +1,14 @@
+                                           name platform  year_of_release         genre  ... user_score  user_count       developer  rating
+0                     Call of Duty: Black Ops 3      PS4             2015       Shooter  ...        NaN         NaN             NaN     NaN
+1                            Grand Theft Auto V      PS4             2014        Action  ...        8.3      2899.0  Rockstar North       M
+2     Pokemon Omega Ruby/Pokemon Alpha Sapphire      3DS             2014  Role-Playing  ...        NaN         NaN             NaN     NaN
+3                                       FIFA 16      PS4             2015        Sports  ...        4.3       896.0       EA Sports       E
+4                  Star Wars Battlefront (2015)      PS4             2015       Shooter  ...        NaN         NaN             NaN     NaN
+...                                         ...      ...              ...           ...  ...        ...         ...             ...     ...
+1688                           Strawberry Nauts      PSV             2016     Adventure  ...        NaN         NaN             NaN     NaN
+1689                           Aiyoku no Eustia      PSV             2014          Misc  ...        NaN         NaN             NaN     NaN
+1690              Samurai Warriors: Sanada Maru      PS3             2016        Action  ...        NaN         NaN             NaN     NaN
+1691                    Haitaka no Psychedelica      PSV             2016     Adventure  ...        NaN         NaN             NaN     NaN
+1692                        Winning Post 8 2016      PSV             2016    Simulation  ...        NaN         NaN             NaN     NaN
+
+[1693 rows x 16 columns]

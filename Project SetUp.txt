@@ -1,0 +1,23 @@
+Preparation for the lesson:
+    1. Install Visual Studio Code(you can do so from their offical website)
+    2. After the installation proccess is complete, open VS Code and install the Python Extensions
+    3. Create a file under the name "TaskChart1.py". This is the file you will be writing you'r code in throught the lesson.
+    4. Congradulations, you are now ready to take the lesson!
+
+Let's Begin!
+Today i will teach you how to create a bar chart that represents the number of games for each genre for the 4 selected gaming platforms.
+You can find the chart in the "example.png" file that is located in the "Neccessary Data and Chart Example" folder. It may look complicated,
+but once we break it down into steps it will be a lot easier to comprehend.
+
+After you have created the file "TaskChart1.py" inside VS Code, open it.
+
+1) The first thing you will have to do is import the neccessary libraries. Please open the Library SetUp folder, and inside it the "Library SetUp.txt" file that will explain how to set up the libraries.
+
+2) Now that we have imported the neccessary libraries we can start preparing the Data that we will be using to plot our chart. Please open the "PandasTheoryAndCode" folder, and inside it the "Pandas.txt" file.
+
+3) Last, but certainly not least, we need to create the chart using the data you have provided. Open the "PlotChart.txt" file in the "MatplotlibPlottingTheChart" folder.
+
+
+Congradulations, if everything went smoothly just run the program and you will get a chart that looks the same as the one in the "example.png" file.
+
+If the chart is not the same as in the example file, review what you have done so far and look for any mistakes, and if the chart still isn't the same fell free to reffer to the complete code, that is located in the "Solution" folder, in the "TaskChartSolution.py" file.

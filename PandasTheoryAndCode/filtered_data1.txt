@@ -1,0 +1,27 @@
+1.
+
+0       PS4
+1       PS4
+2       3DS
+3       PS4
+4       PS4
+       ...
+1688    PSV
+1689    PSV
+1690    PS3
+1691    PSV
+1692    PSV
+
+2.
+
+0        True
+1        True
+2       False
+3        True
+4        True
+        ...  
+1688    False
+1689    False
+1690    False
+1691    False
+1692    False
