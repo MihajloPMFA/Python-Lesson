@@ -1,5 +1,0 @@
-Now that we have the neccessary data, we can start making the chart that will help us visualize it.
-To remind you the Matplotlib library is used for vizualisation of data.
-It allows you to create many types of charts and customize them in many different ways.
-
-Open the file "Plot.py" file to see the steps to plotting the chart.
