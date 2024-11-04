@@ -1,0 +1,11 @@
+For this particular chart we will be utilizing 2 libraries:
+	- Matplotlib
+	-Pandas
+
+The Matplotlib library is the library that contains the neccessary functions for data visualization.
+The Pandas library is used for reading/writing and manipulating DataFrames.
+
+When importing a library in Python we use the import function and after it we write the name of the library.
+Feel free to open the "ImportingLibraries.py" example file
+
+After going through the example file, you can continue to the next step in the "Project SetUp.txt" file.

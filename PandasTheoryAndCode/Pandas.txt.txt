@@ -1,0 +1,17 @@
+As we previously stated before, the Pandas library is used for reading,writing and manipulating DataFrames.
+
+1. First open the "Neccessary Data and Chart Example" folder, and inside it, the "dataset.csv" file.
+		You will find that the file is fairly hard to read. That is the main reason why we have imported the Pandas library.
+
+2. Open the "PandasReadingCSV.py" file inside Vs Code and go through it.
+
+3. After reading the csv file, and converting it into a DataFrame, open the 'example.png' file.
+		On the x - axis you will see 4 specific gaming platforms in this order: PS4, XOne, PC ans WiiU.
+		Because we have many more consoles in the DataFrame we will have to filter out the unneccesary consoles.
+		Open the "DataFrameFilter.py" file in the "PandasTheoryAndCode" folder in VS Code.
+
+4. Now that we have successfully filtered out the DataFrame, we only have a couple of steps left before we can start plotting the chart.
+		Open the "DataFrameGrouping.py" file in the "PandasTheoryAndCode" folder in VS Code.
+
+Congradulations, if you got this far it means that you are done setting up the data we need, and are ready to begin plotting the chart.
+You can close this file and folder, and return to the "ProjectSetup.txt" file.
